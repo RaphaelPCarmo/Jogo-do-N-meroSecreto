@@ -57,7 +57,7 @@ Este projeto foi criado com fins educacionais para praticar:
 Este projeto é de uso livre e sem fins comerciais.
 Sinta-se à vontade para estudar, modificar e compartilhar!
 
-👤 Criado por
-<img src="https://via.placeholder.com/120x120.png?text=Sua+Foto+AQUI" alt="Foto do Criador" width="120" style="border-radius: 50%"><br>
-<strong>Raphael Perim do Carmo</strong>
+## 👤 Criado por
 
+<img src="https://github.com/raphaelperimdocarmo.png" width="120" style="border-radius: 50%"><br>
+<strong>Raphael Perim do Carmo</strong>
