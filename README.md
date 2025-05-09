@@ -40,8 +40,7 @@ Basta dar duplo clique no arquivo
 
 Ou usar uma extensão como Live Server no VS Code
 
-🎥 Demonstração do Projeto
-<!-- Substitua abaixo pelo link do GIF ou imagem real --> <img src="https://via.placeholder.com/600x300?text=GIF+ou+Imagem+do+Jogo+Aqui" alt="Demonstração do Jogo">
+
 📚 Objetivo do Projeto
 Este projeto foi criado com fins educacionais para praticar:
 
@@ -59,5 +58,4 @@ Sinta-se à vontade para estudar, modificar e compartilhar!
 
 ## 👤 Criado por
 
-<img src="https://github.com/raphaelperimdocarmo.png" width="120" style="border-radius: 50%"><br>
 <strong>Raphael Perim do Carmo</strong>
