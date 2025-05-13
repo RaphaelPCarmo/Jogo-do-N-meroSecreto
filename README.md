@@ -18,12 +18,6 @@ Um jogo interativo de adivinhação onde o jogador tenta descobrir um número al
 - 🔁 Botão para reiniciar o jogo após vitória
 - 🎨 Interface moderna e responsiva com HTML + CSS
 
-<h2> 📸 Preview </h2>
-
-<!-- Substitua pelos seus prints -->
-<img src="preview1.png" style="width: 400px;">
-<img src="preview2.png" style="width: 400px;">
-
 <h2> 🚀 Como Executar o Projeto </h2>
 
 • Clone o repositório:
@@ -35,6 +29,7 @@ git clone https://github.com/seuusuario/numero-secreto.git
 • Execute o arquivo index.html diretamente no navegador:
 
 Clique duas vezes no arquivo
+
 ou
 
 Use uma extensão como Live Server (VS Code)
