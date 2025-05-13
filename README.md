@@ -1,61 +1,58 @@
-🔢 Jogo Número Secreto
-<img src="https://img.shields.io/badge/Feito%20com-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JS Badge"> <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge"> <br>
-Um jogo interativo desenvolvido com JavaScript, HTML e CSS.
-O objetivo é adivinhar um número aleatório gerado pelo sistema, recebendo feedback em tempo real para orientar cada palpite.
-Este projeto é ideal para quem quer aprender lógica de programação e a integração entre tecnologias web.
+# 🔢 Jogo Número Secreto - Um jogo simples com HTML, CSS e JavaScript
 
-🎯 Funcionalidades
-🔄 Geração Aleatória:
-O sistema gera automaticamente um número secreto dentro de um intervalo pré-definido.
+Um jogo interativo de adivinhação onde o jogador tenta descobrir um número aleatório gerado pelo sistema. Desenvolvido com JavaScript, HTML e CSS, esse projeto é ideal para quem deseja praticar lógica de programação e interação com o usuário.
 
-🗣️ Interatividade:
-O jogador recebe feedback visual e textual informando se o palpite está:
+### Built with
 
-🔺 Acima
+ * ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ * ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ * ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
-🔻 Abaixo
+<h2> ✨ Funcionalidades </h2>
 
-✅ Correto
+- 🔄 Geração automática de número secreto dentro de um intervalo definido
+- 🗣️ Feedback visual e textual em tempo real informando se o palpite está:
+  - 🔺 Acima
+  - 🔻 Abaixo
+  - ✅ Correto
+- 🔁 Botão para reiniciar o jogo após vitória
+- 🎨 Interface moderna e responsiva com HTML + CSS
 
-🎨 Estilo Moderno:
-Interface desenvolvida com HTML e estilizada com CSS, trazendo um visual limpo e atrativo.
+<h2> 📸 Preview </h2>
 
-🔁 Reinício de Jogo:
-Após acertar o número, o jogador pode iniciar uma nova rodada com um simples clique.
+<!-- Substitua pelos seus prints -->
+<img src="preview1.png" style="width: 400px;">
+<img src="preview2.png" style="width: 400px;">
 
-💻 Tecnologias Utilizadas
-<ul> <li><strong>HTML</strong>: Estruturação do conteúdo da página.</li> <li><strong>CSS</strong>: Estilização e design responsivo da interface.</li> <li><strong>JavaScript</strong>: Lógica do jogo e interação com o usuário.</li> </ul>
-🚀 Como Executar o Projeto
-<strong>Clone</strong> este repositório:
+<h2> 🚀 Como Executar o Projeto </h2>
 
-bash
-Copiar
-Editar
+• Clone o repositório:
+```bash
 git clone https://github.com/seuusuario/numero-secreto.git
-<strong>Abra</strong> a pasta do projeto no seu editor de código favorito.
+```
+• Abra a pasta no seu editor de código preferido
 
-<strong>Execute</strong> o arquivo index.html diretamente no navegador:
+• Execute o arquivo index.html diretamente no navegador:
 
-Basta dar duplo clique no arquivo
+Clique duas vezes no arquivo
+ou
 
-Ou usar uma extensão como Live Server no VS Code
+Use uma extensão como Live Server (VS Code)
 
+<h2> 🎯 Objetivo do Projeto </h2>
+Este projeto foi criado com o objetivo de praticar:
 
-📚 Objetivo do Projeto
-Este projeto foi criado com fins educacionais para praticar:
-
-🧩 Lógica de programação com JavaScript
+🧩 Lógica de programação em JavaScript
 
 🖱️ Manipulação da DOM
 
-🌐 Integração entre HTML, CSS e JS em uma aplicação simples
+🌐 Integração entre HTML, CSS e JS
 
-🎮 Criação de jogos interativos no navegador
+🎮 Desenvolvimento de jogos simples e interativos para navegador
 
-📝 Licença
+<h2> 📝 Licença </h2>
 Este projeto é de uso livre e sem fins comerciais.
-Sinta-se à vontade para estudar, modificar e compartilhar!
+Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
 
-## 👤 Criado por
-
+<h2> 👤 Criado por </h2>
 <strong>Raphael Perim do Carmo</strong>
